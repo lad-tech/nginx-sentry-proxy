@@ -7,5 +7,5 @@ Ad blocker bypass for Sentry.Allows you to bypass ads using reverse proxy.
 
 ### run :
 ```bash
-docker run ghcr.io/lad-tech/nginx-sentry-proxy:master
+docker pull ghcr.io/lad-tech/nginx-sentry-proxy:latest
 ```
